@@ -1,7 +1,78 @@
 {
-  "week": null,
-  "year": null,
-  "published": null,
-  "notice": "Viikkokatsausta ei ole vielä julkaistu.",
-  "items": []
+  "week": 44,
+  "year": 2026,
+  "published": "2026-10-26",
+  "notice": "Kooste perustuu julkisiin kokousasioiden otsikoihin. Se ei ole päätöspöytäkirjojen eikä asiakirjasisältöjen tekoälytiivistelmä.",
+  "items": [
+    {
+      "title": "2117 Moision koulun laajennuksen asemakaavaehdotus",
+      "body": "Kunnanhallitus",
+      "meeting_date": "2026-10-19",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-11"
+    },
+    {
+      "title": "Hyvinvointi- ja elinvoimapalveluiden palvelualueen tiedot TA 2026 2. osavuosikatsaukseen",
+      "body": "Hyvinvointi- ja elinvoimalautakunta",
+      "meeting_date": "2026-10-20",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026561-5"
+    },
+    {
+      "title": "Lempäälän kunnan rakennusjärjestyksen hyväksyminen",
+      "body": "Kunnanvaltuusto",
+      "meeting_date": "2026-10-28",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-3"
+    },
+    {
+      "title": "Lempäälän tuloveroprosentin ja kiinteistöveroprosenttien määrääminen vuodelle 2027",
+      "body": "Kunnanvaltuusto",
+      "meeting_date": "2026-10-28",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-7"
+    },
+    {
+      "title": "Muutostalousarvio vuodelle 2026",
+      "body": "Kunnanvaltuusto",
+      "meeting_date": "2026-10-28",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-6"
+    },
+    {
+      "title": "Talousarvion osavuosikatsaus 31.08.2026",
+      "body": "Kunnanvaltuusto",
+      "meeting_date": "2026-10-28",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-5"
+    },
+    {
+      "title": "Esi- ja perusopetuksen koulujen opetussuunnitelmaan perustuvat yksikkökohtaiset suunnitelmat lukuvuodelle 2026-2027",
+      "body": "Kasvatus- ja opetuslautakunta",
+      "meeting_date": "2026-10-20",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-5"
+    },
+    {
+      "title": "Kasvatuksen ja opetuksen palvelualueen tiedot TA 2026 2. osavuosikatsaukseen",
+      "body": "Kasvatus- ja opetuslautakunta",
+      "meeting_date": "2026-10-20",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-7"
+    },
+    {
+      "title": "Lempäälän kunnan esi- ja perusopetuksen koulujen työ- ja loma-ajat lukuvuonna 2027–2028",
+      "body": "Kasvatus- ja opetuslautakunta",
+      "meeting_date": "2026-10-20",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-6"
+    },
+    {
+      "title": "Maapoliittisen ohjelman päivitys",
+      "body": "Kunnanvaltuusto",
+      "meeting_date": "2026-10-28",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-4"
+    }
+  ]
 }
