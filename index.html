@@ -17,6 +17,9 @@ footer{font-size:.88rem;margin:24px 0;color:#526477}
 </style></head>
 <body><main>
 <header><h1>Lempäälän päätökset</h1><p>Ajankohtaista tietoa Lempäälän kunnan päätöksenteosta yhdessä paikassa.</p><p class="muted">Tekoälyavusteinen automaattinen kooste on rakenteilla. Päätösasioita ei vielä julkaista tällä sivulla automaattisesti.</p></header>
+<h2>Uusimmat julkiset kokousasiat</h2>
+<p class="muted">Otsikot tulevat kunnan julkisesta RSS-syötteestä. Ne eivät ole tekoälytiivistelmiä eikä otsikko yksin osoita päätöksen syntyneen.</p>
+<div id="feed" class="notice" aria-live="polite">Ladataan julkisia kokousasioita…</div>
 <h2>Seuraa päätöksentekoa</h2>
 <section class="cards" aria-label="Tietolähteet">
 <article><h3>Esityslistat ja pöytäkirjat</h3><p>Valtuuston, kunnanhallituksen ja lautakuntien viralliset asiakirjat.</p><p><a href="https://www.lempaala.fi/lempaala-tietoa/paatoksenteko/esityslistat-ja-poytakirjat/" target="_blank" rel="noopener noreferrer">Avaa kunnan asiakirjat</a></p></article>
@@ -26,4 +29,30 @@ footer{font-size:.88rem;margin:24px 0;color:#526477}
 <h2>Tietoa palvelusta</h2>
 <div class="notice"><p>Tavoitteena on julkaista täällä automaattisesti tekoälyavusteisia, puolueettomia tiivistelmiä Lempäälän julkisista esityslistoista ja pöytäkirjoista. Päätösehdotukset ja tehdyt päätökset erotetaan toisistaan. Tiivistelmät voivat sisältää virheitä. Tarkista tärkeät tiedot aina alkuperäisestä asiakirjasta.</p><p>Tämä on yksityinen sivusto, ei Lempäälän kunnan virallinen tiedotuskanava.</p></div>
 <footer>Palvelun rakentaminen on kesken. Viimeisin sivupohjan päivitys: 26.10.2026.</footer>
-</main></body></html>
+</main>
+<script>
+(async function() {
+ const box=document.getElementById('feed');
+ try {
+  const response=await fetch('data.json',{cache:'no-store'});
+  if(!response.ok) throw Error('Tietoja ei saatu');
+  const data=await response.json();
+  box.replaceChildren();
+  const state=document.createElement('p');
+  if(data.status==='not_checked') state.textContent='Automaattista lähdehakua ei ole vielä suoritettu.';
+  else if(data.status==='unavailable') state.textContent='Lähteen päivitys ei onnistunut viime tarkistuksessa. Mahdolliset alla olevat linkit ovat aiemmin haettuja.';
+  else state.textContent='Automaattisesti haetut lähdelinkit. Tiedot on tarkistettava alkuperäisistä asiakirjoista.';
+  box.append(state);
+  if(data.checked_at){const stamp=document.createElement('p');stamp.className='muted';const d=new Date(data.checked_at);stamp.textContent='Viimeisin hakuyritys: '+d.toLocaleString('fi-FI',{timeZone:'Europe/Helsinki'});box.append(stamp);}
+  if(!Array.isArray(data.items)||!data.items.length) return;
+  const list=document.createElement('ul');
+  for(const item of data.items.slice(0,30)) {
+   const a=document.createElement('a');const url=new URL(item.url);
+   if(url.protocol!=='https:'||url.hostname!=='lempaala10.oncloudos.com') continue;
+   a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';a.textContent=item.title;
+   const li=document.createElement('li');li.append(a);list.append(li);
+  }
+  box.append(list);
+ }catch(e){box.textContent='Tietoja ei juuri nyt saada. Käytä alla olevia virallisia lähdelinkkejä.';}
+})();
+</script></body></html>
