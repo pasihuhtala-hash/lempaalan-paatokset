@@ -17,6 +17,37 @@ footer{font-size:.88rem;margin:24px 0;color:#526477}
 </style></head>
 <body><main>
 <header><h1>Lempäälän päätökset</h1><p>Ajankohtaista tietoa Lempäälän kunnan päätöksenteosta yhdessä paikassa.</p><p class="muted">Tekoälyavusteinen automaattinen kooste on rakenteilla. Päätösasioita ei vielä julkaista tällä sivulla automaattisesti.</p></header>
+<section aria-label="Viikon päätösuutiset">
+<h2>Viikon päätösuutiset</h2>
+<p class="muted">Perjantaisin julkaistava katsaus ajankohtaisista kokousasioista. Sisältö perustuu toistaiseksi RSS-otsikoihin, ei asiakirjojen sisältöjen tulkintaan.</p>
+<div id="weekly" class="notice" aria-live="polite">Ladataan viikkokatsausta…</div>
+</section>
+<script>
+(async function(){
+ const target=document.getElementById('weekly');
+ try {
+ const response=await fetch('weekly.json',{cache:'no-store'});
+ if(!response.ok) throw Error('Ei saatavilla');
+ const d=await response.json();
+ target.replaceChildren();
+ if(!d.published||!Array.isArray(d.items)||!d.items.length){
+ target.textContent='Ensimmäistä viikkokatsausta ei ole vielä julkaistu. Se valmistuu perjantain ajossa.';return;
+ }
+ const meta=document.createElement('p');meta.className='muted';
+ meta.textContent='Viikko '+d.week+' / '+d.year+' · julkaistu '+new Date(d.published+'T12:00:00').toLocaleDateString('fi-FI');target.append(meta);
+ const notice=document.createElement('p');notice.textContent=d.notice;target.append(notice);
+ for(const item of d.items){
+ const u=new URL(item.url);
+ if(u.protocol!=='https:'||u.hostname!=='lempaala10.oncloudos.com') continue;
+ const article=document.createElement('article');article.style.marginTop='12px';
+ const heading=document.createElement('h3');heading.textContent=item.title;article.append(heading);
+ const details=document.createElement('p');details.className='muted';
+ details.textContent=item.body+' · '+item.meeting_date+' · '+item.status;article.append(details);
+ const a=document.createElement('a');a.href=u.href;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Lue alkuperäinen kokousasia';article.append(a);target.append(article);
+ }
+ }catch(e){target.textContent='Viikkokatsausta ei saada juuri nyt näkyviin.';}
+})();
+</script>
 <h2>Uusimmat julkiset kokousasiat</h2>
 <p class="muted">Otsikot tulevat kunnan julkisesta RSS-syötteestä. Ne eivät ole tekoälytiivistelmiä eikä otsikko yksin osoita päätöksen syntyneen.</p>
 <div id="feed" class="notice" aria-live="polite">Ladataan julkisia kokousasioita…</div>
