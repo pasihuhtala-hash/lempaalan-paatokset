@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-27T05:56:09+00:00",
+  "checked_at": "2026-10-27T11:56:23+00:00",
   "items": [
     {
       "title": "Kunnanvaltuusto 28.10.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
@@ -73,6 +73,51 @@
       "published": ""
     },
     {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-1",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-2",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Esityslistan hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-3",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Sivistysjohtajan esittelemät ajankohtaiset asiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-4",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Esi- ja perusopetuksen koulujen opetussuunnitelmaan perustuvat yksikkökohtaiset suunnitelmat lukuvuodelle 2026-2027",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-5",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Lempäälän kunnan esi- ja perusopetuksen koulujen työ- ja loma-ajat lukuvuonna 2027&ndash;2028",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-6",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Kasvatuksen ja opetuksen palvelualueen tiedot TA 2026 2. osavuosikatsaukseen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-7",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Kasvatus- ja opetuslautakunnan ilmoitusasiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-8",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Viranhaltijapäätökset",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-9",
+      "published": ""
+    },
+    {
       "title": "Hyvinvointi- ja elinvoimalautakunta 20.10.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026561-1",
       "published": ""
@@ -120,51 +165,6 @@
     {
       "title": "Hyvinvointi- ja elinvoimalautakunta 20.10.2026 / Viranhaltijapäätökset",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026561-10",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-1",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-2",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Esityslistan hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-3",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Sivistysjohtajan esittelemät ajankohtaiset asiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-4",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Esi- ja perusopetuksen koulujen opetussuunnitelmaan perustuvat yksikkökohtaiset suunnitelmat lukuvuodelle 2026-2027",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-5",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Lempäälän kunnan esi- ja perusopetuksen koulujen työ- ja loma-ajat lukuvuonna 2027&ndash;2028",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-6",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Kasvatuksen ja opetuksen palvelualueen tiedot TA 2026 2. osavuosikatsaukseen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-7",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Kasvatus- ja opetuslautakunnan ilmoitusasiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-8",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Viranhaltijapäätökset",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-9",
       "published": ""
     },
     {
