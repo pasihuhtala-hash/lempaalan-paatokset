@@ -1,7 +1,87 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-29T06:03:27+00:00",
+  "checked_at": "2026-10-29T12:03:59+00:00",
   "items": [
+    {
+      "title": "Yhdyskuntalautakunta 03.11.2026 / Lausunto kunnan toissijaiselle vastuulle kuuluvan jätteen jätetaksaesityksestä",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-18",
+      "published": ""
+    },
+    {
+      "title": "Yhdyskuntalautakunta 03.11.2026 / Lausunto kuntavastuullisten jätehuoltopalvelujen jätetaksaesityksestä",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-19",
+      "published": ""
+    },
+    {
+      "title": "Yhdyskuntalautakunta 03.11.2026 / Ilmoitusasiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-20",
+      "published": ""
+    },
+    {
+      "title": "Yhdyskuntalautakunta 03.11.2026 / Viranhaltijoiden päätökset",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-21",
+      "published": ""
+    },
+    {
+      "title": "Yhdyskuntalautakunta 03.11.2026 / Yhdyskuntajohtajan ajankohtaiset asiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-22",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-1",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-2",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Esityslistan hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-3",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Kunnanjohtajan ajankohtaiset asiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-4",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Sääksjärven aseman pohjoisen vaihtoehdon valinta ratasuunnittelun lähtökohdaksi",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-5",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / 15035 Areenakadun jatkeen asemakaava, hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-6",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / 4051 Rypyntie asemakaavan muutos, ehdotus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-7",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Konsernijohdon omistajaohjaus, yhtiökokousedustajan evästäminen / Kiinteistö Oy Lempäälän Uimahallin ylimääräinen yhtiökokous 11.11.2026",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-8",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Vastaus valtuustoaloitteeseen / Toimenpideohjelmien laatiminen nuorten työllisyyden edistämiseksi Lempäälässä",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-9",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Lautakuntien pöytäkirjat ja viranhaltijapäätökset",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-10",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 02.11.2026 / Ilmoitusasiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-11",
+      "published": ""
+    },
     {
       "title": "Kunnanvaltuusto 28.10.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-1",
@@ -170,86 +250,6 @@
     {
       "title": "Kunnanhallitus 19.10.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-1",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-2",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Esityslistan hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-3",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Kunnanjohtajan ajankohtaiset asiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-4",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Konsernijohdon omistajaohjauslinjaukset / Lempon Parkkikiinteistöt Oy ja Lempon Parkki Oy, tavoitekortin käsittely",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-5",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Konsernijohdon omistajaohjauslinjaukset / Lempäälän Kiinteistöhuolto ja -tekniikka LEKITEK Oy, tavoitekortin käsittely",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-6",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Konsernijohdon omistajaohjauslinjaukset / Lempäälän Vesi Oy, tavoitekortin käsittely",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-7",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Maapoliittisen ohjelman päivitys",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-8",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Määräalan myynti, Gasgrid Finland Oy, Peräsalo 418-439-2-389",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-9",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Määräalan vuokraaminen, Wega Group Oy, Peräsalo 418-439-2-389",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-10",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / 2117 Moision koulun laajennuksen asemakaavaehdotus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-11",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Talousarvion osavuosikatsaus 31.08.2026",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-12",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Muutostalousarvio vuodelle 2026",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-13",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Lempäälän tuloveroprosentin ja kiinteistöveroprosenttien määrääminen vuodelle 2027",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-14",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Lempäälän Kuntakiinteistöt Oy:n ja Lempäälän Kehitys Oy:n liittäminen kunnan konsernitilijärjestelmään",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-15",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Seutustrategian toteutusohjelman hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-16",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 19.10.2026 / Ohjaus valmisteluun, valtuustoaloite uuden veneenlaskupaikan rakentamisesta Pyhäjärven rantaan",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026570-17",
       "published": ""
     }
   ]
