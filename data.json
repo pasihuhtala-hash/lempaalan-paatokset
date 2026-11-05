@@ -1,7 +1,42 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-05T06:21:52+00:00",
+  "checked_at": "2026-11-05T12:15:25+00:00",
   "items": [
+    {
+      "title": "Keskusvaalilautakunta 09.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-1",
+      "published": ""
+    },
+    {
+      "title": "Keskusvaalilautakunta 09.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-2",
+      "published": ""
+    },
+    {
+      "title": "Keskusvaalilautakunta 09.11.2026 / Esityslistan hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-3",
+      "published": ""
+    },
+    {
+      "title": "Keskusvaalilautakunta 09.11.2026 / Varavaltuutettujen määrän täydentäminen vaalituloksen mukaisesti",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-4",
+      "published": ""
+    },
+    {
+      "title": "Keskusvaalilautakunta 09.11.2026 / Vaalimainoskehikoiden järjestelyt eduskuntavaaleissa 2027",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-5",
+      "published": ""
+    },
+    {
+      "title": "Keskusvaalilautakunta 09.11.2026 / Lähetekeskustelu kahvitustilaisuuksien ja muiden vastaavien tilaisuuksien järjestämisestä eduskuntavaaleissa 2027",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-6",
+      "published": ""
+    },
+    {
+      "title": "Keskusvaalilautakunta 09.11.2026 / Keskusvaalilautakunnan muut asiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-7",
+      "published": ""
+    },
     {
       "title": "Yhdyskuntalautakunta 03.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-1",
@@ -215,41 +250,6 @@
     {
       "title": "Tarkastuslautakunta 23.10.2026 / Pöytäkirjan tarkastajat",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026577-2",
-      "published": ""
-    },
-    {
-      "title": "Tarkastuslautakunta 23.10.2026 / Esityslistan hyväksyminen ((kohdat 1&ndash;3 yht. 5 min)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026577-3",
-      "published": ""
-    },
-    {
-      "title": "Tarkastuslautakunta 23.10.2026 / Kaavoituspäällikön kuuleminen (45 min)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026577-4",
-      "published": ""
-    },
-    {
-      "title": "Tarkastuslautakunta 23.10.2026 / Strategiatyöryhmien puheenjohtajien kuuleminen (45 min)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026577-5",
-      "published": ""
-    },
-    {
-      "title": "Tarkastuslautakunta 23.10.2026 / Muut asiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026577-6",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-1",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-2",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 20.10.2026 / Esityslistan hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026572-3",
       "published": ""
     }
   ]
