@@ -1,78 +1,78 @@
 {
-  "week": 44,
+  "week": 45,
   "year": 2026,
-  "published": "2026-10-30",
+  "published": "2026-11-06",
   "notice": "Kooste perustuu julkisiin kokousasioiden otsikoihin. Se ei ole päätöspöytäkirjojen eikä asiakirjasisältöjen tekoälytiivistelmä.",
   "items": [
     {
       "title": "15035 Areenakadun jatkeen asemakaava, hyväksyminen",
       "body": "Kunnanhallitus",
       "meeting_date": "2026-11-02",
-      "status": "Tulossa käsittelyyn",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-6"
     },
     {
       "title": "4051 Rypyntie asemakaavan muutos, ehdotus",
       "body": "Kunnanhallitus",
       "meeting_date": "2026-11-02",
-      "status": "Tulossa käsittelyyn",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-7"
     },
     {
       "title": "Investointikoritusten päivitys marraskuu 2026",
       "body": "Yhdyskuntalautakunta",
       "meeting_date": "2026-11-03",
-      "status": "Tulossa käsittelyyn",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-7"
     },
     {
       "title": "Lastusten osayleiskaava, kaava 12021, luonnos",
       "body": "Yhdyskuntalautakunta",
       "meeting_date": "2026-11-03",
-      "status": "Tulossa käsittelyyn",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-4"
     },
     {
       "title": "Lausunto kuntavastuullisten jätehuoltopalvelujen jätetaksaesityksestä",
       "body": "Yhdyskuntalautakunta",
       "meeting_date": "2026-11-03",
-      "status": "Tulossa käsittelyyn",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-19"
     },
     {
       "title": "Vastaus valtuustoaloitteeseen / Valtuustoaloite Palvelubussin palvelupäivien palauttamisesta takaisin viiteen",
       "body": "Yhdyskuntalautakunta",
       "meeting_date": "2026-11-03",
-      "status": "Tulossa käsittelyyn",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-16"
     },
     {
-      "title": "Lempäälän kunnan rakennusjärjestyksen hyväksyminen",
-      "body": "Kunnanvaltuusto",
-      "meeting_date": "2026-10-28",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-3"
+      "title": "Lähetekeskustelu kahvitustilaisuuksien ja muiden vastaavien tilaisuuksien järjestämisestä eduskuntavaaleissa 2027",
+      "body": "Keskusvaalilautakunta",
+      "meeting_date": "2026-11-09",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-6"
     },
     {
-      "title": "Lempäälän tuloveroprosentin ja kiinteistöveroprosenttien määrääminen vuodelle 2027",
-      "body": "Kunnanvaltuusto",
-      "meeting_date": "2026-10-28",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-7"
+      "title": "Vaalimainoskehikoiden järjestelyt eduskuntavaaleissa 2027",
+      "body": "Keskusvaalilautakunta",
+      "meeting_date": "2026-11-09",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-5"
     },
     {
-      "title": "Muutostalousarvio vuodelle 2026",
-      "body": "Kunnanvaltuusto",
-      "meeting_date": "2026-10-28",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-6"
+      "title": "Varavaltuutettujen määrän täydentäminen vaalituloksen mukaisesti",
+      "body": "Keskusvaalilautakunta",
+      "meeting_date": "2026-11-09",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-4"
     },
     {
-      "title": "Talousarvion osavuosikatsaus 31.08.2026",
-      "body": "Kunnanvaltuusto",
-      "meeting_date": "2026-10-28",
+      "title": "Konsernijohdon omistajaohjaus, yhtiökokousedustajan evästäminen / Kiinteistö Oy Lempäälän Uimahallin ylimääräinen yhtiökokous 11.11.2026",
+      "body": "Kunnanhallitus",
+      "meeting_date": "2026-11-02",
       "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026574-5"
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026573-8"
     }
   ]
 }
