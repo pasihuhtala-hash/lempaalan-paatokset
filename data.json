@@ -1,7 +1,27 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T06:24:41+00:00",
+  "checked_at": "2026-11-20T12:16:48+00:00",
   "items": [
+    {
+      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Vastaus oikaisuvaatimukseen sivistysjohtajan päätöksestä 16.9.2026 § 306/2026",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-4",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Esityslistan hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-3",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-2",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-1",
+      "published": ""
+    },
     {
       "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Viranhaltijapäätökset",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-8",
@@ -230,26 +250,6 @@
     {
       "title": "Yhdyskuntalautakunta 03.11.2026 / Lausunto kunnan toissijaiselle vastuulle kuuluvan jätteen jätetaksaesityksestä",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-18",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Lausunto kunnan vastuulle kuuluvan saostus- ja umpisäiliölietteen jätetaksaesityksestä",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-17",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Vastaus valtuustoaloitteeseen / Valtuustoaloite Palvelubussin palvelupäivien palauttamisesta takaisin viiteen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-16",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Kylmäpellonaukio, yleisen alueen suunnitelman hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-15",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Katuyhteys Varmantieltä plv 0-124, katusuunnitelman hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-14",
       "published": ""
     }
   ]
