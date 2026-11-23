@@ -1,7 +1,37 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T18:00:03+00:00",
+  "checked_at": "2026-11-23T06:31:36+00:00",
   "items": [
+    {
+      "title": "Tarkastuslautakunta 27.11.2026 / Muut asiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-6",
+      "published": ""
+    },
+    {
+      "title": "Tarkastuslautakunta 27.11.2026 / Ruokapalvelupäällikön kuuleminen (45 min.)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-5",
+      "published": ""
+    },
+    {
+      "title": "Tarkastuslautakunta 27.11.2026 / Kasvatus- ja opetuslautakunnan puheenjohtajan kuuleminen &#10;(30 min.)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-4",
+      "published": ""
+    },
+    {
+      "title": "Tarkastuslautakunta 27.11.2026 / Esityslistan hyväksyminen (kohdat 1&ndash;3 yht. 5 min)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-3",
+      "published": ""
+    },
+    {
+      "title": "Tarkastuslautakunta 27.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-2",
+      "published": ""
+    },
+    {
+      "title": "Tarkastuslautakunta 27.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-1",
+      "published": ""
+    },
     {
       "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Vastaus oikaisuvaatimukseen sivistysjohtajan päätöksestä 16.9.2026 § 306/2026",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-4",
@@ -220,36 +250,6 @@
     {
       "title": "Keskusvaalilautakunta 09.11.2026 / Pöytäkirjan tarkastajat",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-2",
-      "published": ""
-    },
-    {
-      "title": "Keskusvaalilautakunta 09.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026564-1",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Yhdyskuntajohtajan ajankohtaiset asiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-22",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Viranhaltijoiden päätökset",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-21",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Ilmoitusasiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-20",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Lausunto kuntavastuullisten jätehuoltopalvelujen jätetaksaesityksestä",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-19",
-      "published": ""
-    },
-    {
-      "title": "Yhdyskuntalautakunta 03.11.2026 / Lausunto kunnan toissijaiselle vastuulle kuuluvan jätteen jätetaksaesityksestä",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026571-18",
       "published": ""
     }
   ]
