@@ -1,60 +1,10 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T15:29:04+00:00",
+  "checked_at": "2026-11-27T01:03:56+00:00",
   "items": [
     {
-      "title": "Kunnanhallitus 30.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-1",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-2",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Esityslistan hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-3",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Kunnanjohtajan ajankohtaiset asiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-4",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Lempäälän kunnan konserniohje ja omistajapolitiikka",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-5",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Kärkihanke Asuntomessut Lempäälässä 2026&ndash;loppuraportti",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-6",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Vuoden 2027 talousarvio ja 2027-2029 taloussuunnitelma",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-7",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Yhteistoimintamenettelyn päättyminen ja neuvottelutuloksen hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-8",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Kestävän kuntatalouden ohjelma",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-9",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Lempäälän kunnan ja Lempäälän Kehitys Oy:n välinen sopimus elinkeino- ja matkailupalvelujen hankinnasta vuodelle 2027",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-10",
-      "published": ""
-    },
-    {
-      "title": "Kunnanhallitus 30.11.2026 / Katujen kunnossapitoa, taajamametsien hoitoa sekä leikkipaikkatarkastuksia ja -korjauksia koskevien toimintojen siirtäminen Lekitek Oy:lle liikkeenluovutuksena sekä liikkeenluovutussopimuksen hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-11",
+      "title": "Kunnanhallitus 30.11.2026 / Lautakuntien pöytäkirjat ja viranhaltijapäätökset",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-13",
       "published": ""
     },
     {
@@ -63,33 +13,58 @@
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 30.11.2026 / Lautakuntien pöytäkirjat ja viranhaltijapäätökset",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-13",
+      "title": "Kunnanhallitus 30.11.2026 / Katujen kunnossapitoa, taajamametsien hoitoa sekä leikkipaikkatarkastuksia ja -korjauksia koskevien toimintojen siirtäminen Lekitek Oy:lle liikkeenluovutuksena sekä liikkeenluovutussopimuksen hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-11",
       "published": ""
     },
     {
-      "title": "Tarkastuslautakunta 27.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-1",
+      "title": "Kunnanhallitus 30.11.2026 / Lempäälän kunnan ja Lempäälän Kehitys Oy:n välinen sopimus elinkeino- ja matkailupalvelujen hankinnasta vuodelle 2027",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-10",
       "published": ""
     },
     {
-      "title": "Tarkastuslautakunta 27.11.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-2",
+      "title": "Kunnanhallitus 30.11.2026 / Kestävän kuntatalouden ohjelma",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-9",
       "published": ""
     },
     {
-      "title": "Tarkastuslautakunta 27.11.2026 / Esityslistan hyväksyminen (kohdat 1&ndash;3 yht. 5 min)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-3",
+      "title": "Kunnanhallitus 30.11.2026 / Yhteistoimintamenettelyn päättyminen ja neuvottelutuloksen hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-8",
       "published": ""
     },
     {
-      "title": "Tarkastuslautakunta 27.11.2026 / Kasvatus- ja opetuslautakunnan puheenjohtajan kuuleminen &#10;(30 min.)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-4",
+      "title": "Kunnanhallitus 30.11.2026 / Vuoden 2027 talousarvio ja 2027-2029 taloussuunnitelma",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-7",
       "published": ""
     },
     {
-      "title": "Tarkastuslautakunta 27.11.2026 / Ruokapalvelupäällikön kuuleminen (45 min.)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-5",
+      "title": "Kunnanhallitus 30.11.2026 / Kärkihanke Asuntomessut Lempäälässä 2026&ndash;loppuraportti",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-6",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 30.11.2026 / Lempäälän kunnan konserniohje ja omistajapolitiikka",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-5",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 30.11.2026 / Kunnanjohtajan ajankohtaiset asiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-4",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 30.11.2026 / Esityslistan hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-3",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 30.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-2",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 30.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-1",
       "published": ""
     },
     {
@@ -98,18 +73,28 @@
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-1",
+      "title": "Tarkastuslautakunta 27.11.2026 / Ruokapalvelupäällikön kuuleminen (45 min.)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-5",
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-2",
+      "title": "Tarkastuslautakunta 27.11.2026 / Kasvatus- ja opetuslautakunnan puheenjohtajan kuuleminen &#10;(30 min.)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-4",
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Esityslistan hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-3",
+      "title": "Tarkastuslautakunta 27.11.2026 / Esityslistan hyväksyminen (kohdat 1&ndash;3 yht. 5 min)",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-3",
+      "published": ""
+    },
+    {
+      "title": "Tarkastuslautakunta 27.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-2",
+      "published": ""
+    },
+    {
+      "title": "Tarkastuslautakunta 27.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-1",
       "published": ""
     },
     {
@@ -118,38 +103,18 @@
       "published": ""
     },
     {
-      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-1",
+      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Esityslistan hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-3",
       "published": ""
     },
     {
-      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-2",
+      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-2",
       "published": ""
     },
     {
-      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Esityslistan hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-3",
-      "published": ""
-    },
-    {
-      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Kehitysjohtajan ajankohtaiset asiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-4",
-      "published": ""
-    },
-    {
-      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Sopimuksen päivittäminen Sisä-Suomen Elinvoimakeskuksen kanssa / Kuntaan osoittaminen ja kotoutumisen edistäminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-5",
-      "published": ""
-    },
-    {
-      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Tehtäväalueiden ajankohtaiset",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-6",
-      "published": ""
-    },
-    {
-      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Ilmoitusasiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-7",
+      "title": "Kasvatus- ja opetuslautakunta 25.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-1",
       "published": ""
     },
     {
@@ -158,48 +123,38 @@
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-1",
+      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Ilmoitusasiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-7",
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-2",
+      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Tehtäväalueiden ajankohtaiset",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-6",
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Esityslistan hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-3",
+      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Sopimuksen päivittäminen Sisä-Suomen Elinvoimakeskuksen kanssa / Kuntaan osoittaminen ja kotoutumisen edistäminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-5",
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Vastaus oikaisuvaatimukseen sivistysjohtajan päätöksestä 16.9.2026 § 306/2026",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-4",
+      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Kehitysjohtajan ajankohtaiset asiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-4",
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Kasvatus- ja opetuslautakunnan vuoden 2026 talousarvion palvelusuunnitelman tarkistaminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-5",
+      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Esityslistan hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-3",
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Lempäälän kunnan alakoulujen oppilaaksiottoalueen muutos 1.8.2027 alkaen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-6",
+      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-2",
       "published": ""
     },
     {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Sivistysjohtajan esittelemät ajankohtaiset asiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-7",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Kasvatus- ja opetuslautakunnan lausunto Lupa- ja valvontaviraston lausunto- ja selvityspyyntöön valvonta-asiassa LVV-U/90835/2026",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-8",
-      "published": ""
-    },
-    {
-      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Kasvatus- ja opetuslautakunnan ilmoitusasiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-9",
+      "title": "Hyvinvointi- ja elinvoimalautakunta 19.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026562-1",
       "published": ""
     },
     {
@@ -208,48 +163,93 @@
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 16.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-1",
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Kasvatus- ja opetuslautakunnan ilmoitusasiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-9",
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 16.11.2026 / Pöytäkirjan tarkastajat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-2",
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Kasvatus- ja opetuslautakunnan lausunto Lupa- ja valvontaviraston lausunto- ja selvityspyyntöön valvonta-asiassa LVV-U/90835/2026",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-8",
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 16.11.2026 / Esityslistan hyväksyminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-3",
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Sivistysjohtajan esittelemät ajankohtaiset asiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-7",
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 16.11.2026 / Kunnanjohtajan ajankohtaiset asiat",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-4",
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Lempäälän kunnan alakoulujen oppilaaksiottoalueen muutos 1.8.2027 alkaen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-6",
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 16.11.2026 / Lempäälän kunnan ulosvuokrausperiaatteiden päivittäminen",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-5",
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Kasvatus- ja opetuslautakunnan vuoden 2026 talousarvion palvelusuunnitelman tarkistaminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-5",
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 16.11.2026 / Lastusten osayleiskaava, kaava 12021, luonnos",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-6",
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Vastaus oikaisuvaatimukseen sivistysjohtajan päätöksestä 16.9.2026 § 306/2026",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-4",
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 16.11.2026 / Kaavoitusohjelma 2027",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-7",
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Esityslistan hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-3",
       "published": ""
     },
     {
-      "title": "Kunnanhallitus 16.11.2026 / Määräalojen vaihto &ndash; kiinteistönluovutus vaihtokirjalla",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-8",
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Pöytäkirjan tarkastajat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-2",
+      "published": ""
+    },
+    {
+      "title": "Kasvatus- ja opetuslautakunta 17.11.2026 / Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-1",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 16.11.2026 / Ilmoitusasiat",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-16",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 16.11.2026 / Lautakuntien pöytäkirjat ja viranhaltijapäätökset",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-15",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 16.11.2026 / Kunnanvaltuuston 28.10.2026 pidetyn kokouksen täytäntöönpano ja laillisuus",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-14",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 16.11.2026 / Vastaus valtuustoaloitteeseen / Birgitan polun kunnostus- ja raivaustalkoot yhteistyössä yhdistysten kanssa",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-13",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 16.11.2026 / Vastaus valtuustoaloitteeseen / Valtuustoaloite Palvelubussin palvelupäivien palauttamisesta takaisin viiteen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-12",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 16.11.2026 / Pirkanmaan kuntien, hyvinvointialueen ja Pirkanmaan liiton kumppanuussopimuksen hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-11",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 16.11.2026 / Katujen kunnossapitoa, taajamametsien hoitoa sekä leikkipaikkatarkastuksia ja -korjauksia koskevien toimintojen siirtäminen Lekitek Oy:lle liikkeenluovutuksena sekä liikkeenluovutussopimuksen hyväksyminen",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-10",
       "published": ""
     },
     {
       "title": "Kunnanhallitus 16.11.2026 / Kerrostalotonttien kannustemalli &ndash; kahden vuoden vuokravapaus",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-9",
+      "published": ""
+    },
+    {
+      "title": "Kunnanhallitus 16.11.2026 / Määräalojen vaihto &ndash; kiinteistönluovutus vaihtokirjalla",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-8",
       "published": ""
     }
   ]
