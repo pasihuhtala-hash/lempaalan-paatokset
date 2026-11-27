@@ -1,78 +1,71 @@
 {
-  "week": 47,
+  "week": 48,
   "year": 2026,
-  "published": "2026-11-20",
+  "published": "2026-11-27",
   "notice": "Kooste perustuu julkisiin kokousasioiden otsikoihin. Se ei ole päätöspöytäkirjojen eikä asiakirjasisältöjen tekoälytiivistelmä.",
   "items": [
     {
-      "title": "Kasvatus- ja opetuslautakunnan vuoden 2026 talousarvion palvelusuunnitelman tarkistaminen",
-      "body": "Kasvatus- ja opetuslautakunta",
-      "meeting_date": "2026-11-17",
+      "title": "Ruokapalvelupäällikön kuuleminen (45 min.)",
+      "body": "Tarkastuslautakunta",
+      "meeting_date": "2026-11-27",
       "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-5"
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026586-5"
     },
     {
-      "title": "Lastusten osayleiskaava, kaava 12021, luonnos",
+      "title": "Lempäälän kunnan ja Lempäälän Kehitys Oy:n välinen sopimus elinkeino- ja matkailupalvelujen hankinnasta vuodelle 2027",
       "body": "Kunnanhallitus",
-      "meeting_date": "2026-11-16",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-6"
+      "meeting_date": "2026-11-30",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-10"
     },
     {
-      "title": "Pirkanmaan kuntien, hyvinvointialueen ja Pirkanmaan liiton kumppanuussopimuksen hyväksyminen",
+      "title": "Vuoden 2027 talousarvio ja 2027-2029 taloussuunnitelma",
       "body": "Kunnanhallitus",
-      "meeting_date": "2026-11-16",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-11"
+      "meeting_date": "2026-11-30",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-7"
     },
     {
-      "title": "Vastaus valtuustoaloitteeseen / Valtuustoaloite Palvelubussin palvelupäivien palauttamisesta takaisin viiteen",
+      "title": "Katujen kunnossapitoa, taajamametsien hoitoa sekä leikkipaikkatarkastuksia ja -korjauksia koskevien toimintojen siirtäminen Lekitek Oy:lle liikkeenluovutuksena sekä liikkeenluovutussopimuksen hyväksyminen",
       "body": "Kunnanhallitus",
-      "meeting_date": "2026-11-16",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-12"
+      "meeting_date": "2026-11-30",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-11"
     },
     {
-      "title": "Lempäälän kunnan alakoulujen oppilaaksiottoalueen muutos 1.8.2027 alkaen",
-      "body": "Kasvatus- ja opetuslautakunta",
-      "meeting_date": "2026-11-17",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026576-6"
+      "title": "Kestävän kuntatalouden ohjelma",
+      "body": "Kunnanhallitus",
+      "meeting_date": "2026-11-30",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-9"
+    },
+    {
+      "title": "Kärkihanke Asuntomessut Lempäälässä 2026–loppuraportti",
+      "body": "Kunnanhallitus",
+      "meeting_date": "2026-11-30",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-6"
+    },
+    {
+      "title": "Lempäälän kunnan konserniohje ja omistajapolitiikka",
+      "body": "Kunnanhallitus",
+      "meeting_date": "2026-11-30",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-5"
+    },
+    {
+      "title": "Yhteistoimintamenettelyn päättyminen ja neuvottelutuloksen hyväksyminen",
+      "body": "Kunnanhallitus",
+      "meeting_date": "2026-11-30",
+      "status": "Tulossa käsittelyyn",
+      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026580-8"
     },
     {
       "title": "Vastaus oikaisuvaatimukseen sivistysjohtajan päätöksestä 16.9.2026 § 306/2026",
       "body": "Kasvatus- ja opetuslautakunta",
       "meeting_date": "2026-11-25",
-      "status": "Tulossa käsittelyyn",
+      "status": "Kokousasia (päätöstä ei vahvistettu)",
       "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026585-4"
-    },
-    {
-      "title": "Kaavoitusohjelma 2027",
-      "body": "Kunnanhallitus",
-      "meeting_date": "2026-11-16",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-7"
-    },
-    {
-      "title": "Katujen kunnossapitoa, taajamametsien hoitoa sekä leikkipaikkatarkastuksia ja -korjauksia koskevien toimintojen siirtäminen Lekitek Oy:lle liikkeenluovutuksena sekä liikkeenluovutussopimuksen hyväksyminen",
-      "body": "Kunnanhallitus",
-      "meeting_date": "2026-11-16",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-10"
-    },
-    {
-      "title": "Kerrostalotonttien kannustemalli – kahden vuoden vuokravapaus",
-      "body": "Kunnanhallitus",
-      "meeting_date": "2026-11-16",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-9"
-    },
-    {
-      "title": "Kunnanvaltuuston 28.10.2026 pidetyn kokouksen täytäntöönpano ja laillisuus",
-      "body": "Kunnanhallitus",
-      "meeting_date": "2026-11-16",
-      "status": "Kokousasia (päätöstä ei vahvistettu)",
-      "url": "https://lempaala10.oncloudos.com:443/cgi/DREQUEST.PHP?page=meetingitem&id=2026578-14"
     }
   ]
 }
